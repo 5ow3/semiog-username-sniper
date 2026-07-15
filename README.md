@@ -36,6 +36,7 @@ node index.js
 |-----|--------|
 | `1` | Start checking |
 | `2` | Check proxies |
+| `3` | Refresh proxies |
 | `0` | Settings |
 | `q` | Quit |
 
