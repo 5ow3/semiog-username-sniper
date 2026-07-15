@@ -1,0 +1,11 @@
+{
+  "webhookUrl": "",
+  "webhookContent": "{name} is available on {platform}!",
+  "webhookEmbedTitle": "✓ {name}",
+  "webhookEmbedDescription": "**{name}** is available!\nPlatform: {platform}\nMode: {mode}\nFound: {count}/{total}\nTime: {time}",
+  "webhookEmbedColor": "#00ff41",
+  "concurrency": 50,
+  "count": 100,
+  "length": 4,
+  "timeout": 10
+}
