@@ -71,6 +71,6 @@ ip:port:user:pass
 
 ## License
 
-For educational purposes only. Use responsibly.
+ Use responsibly. Do not steal code without credits!
 
 
