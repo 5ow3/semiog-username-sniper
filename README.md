@@ -64,7 +64,13 @@ ip:port
 # SOCKS4/SOCKS5
 ip:port:user:pass
 ```
+## Preview
+
+<img width="1102" height="603" alt="image" src="https://github.com/user-attachments/assets/bc3736a0-e0e6-4d16-8e76-9c3b9046ad47" />
+
 
 ## License
 
 For educational purposes only. Use responsibly.
+
+
