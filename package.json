@@ -1,0 +1,14 @@
+{
+  "name": "semiog",
+  "version": "1.0.0",
+  "description": "Username checker with proxy rotation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "https-proxy-agent": "^7.0.0",
+    "socks-proxy-agent": "^8.0.0"
+  }
+}
