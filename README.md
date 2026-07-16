@@ -18,7 +18,7 @@ Fast, proxy-rotating username checker for 21 platforms. Built in Node.js.
 
 ```bash
 git clone https://github.com/5ow3/semiog-username-sniper
-cd semiog/js
+cd semiog-username-sniper 
 npm install
 ```
 
